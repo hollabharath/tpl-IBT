@@ -1,0 +1,111 @@
+{
+  "Name": "India Brain Templates",
+  "Identifier": "IBT",
+  "BIDSVersion": "1.1.0",
+  "TemplateFlowVersion": "1.0.0",
+  "License": "CC BY-SA 4.0",
+  "Authors": [
+    "Bharath Holla",
+    "Paul A. Taylor",
+    "Daniel R. Glen",
+    "John A. Lee",
+    "Nilakshi Vaidya",
+    "Urvakhsh M. Mehta",
+    "Ganesan Venkatasubramanian",
+    "Pramod Pal",
+    "Jitender Saini",
+    "Naren P. Rao",
+    "Chirag Ahuja",
+    "Rebecca Kuriyan",
+    "Murali Krishna",
+    "Debashish Basu",
+    "Kartik Kalyanram",
+    "Amit Chakrabarti",
+    "Dimitri Papadopoulos Orfanos",
+    "Gareth J. Barker",
+    "Robert W. Cox",
+    "Gunter Schumann",
+    "Rose Dawn Bharath",
+    "Vivek Benegal"
+  ],
+  "Curators": [
+    "Bharath Holla",
+    "Paul A. Taylor"
+  ],
+  "ReferencesAndLinks": [
+    "https://doi.org/10.1002/hbm.25182",
+    "https://afni.nimh.nih.gov/pub/dist/tgz/IBT_DATASETS.tgz"
+  ],
+  "Species": "Homo sapiens",
+  "Cohorts": [
+    {
+      "Identifier": "C1",
+      "Description": "Late childhood",
+      "MeanAge": "9.3",
+      "AgeMin": "6",
+      "AgeMax": "11",
+      "AgeUnit": "Years",
+      "SampleSize": "28",
+      "FemalePercent": "46.43"
+    },
+    {
+      "Identifier": "C2",
+      "Description": "Adolescence",
+      "MeanAge": "15.1",
+      "AgeMin": "12",
+      "AgeMax": "18",
+      "AgeUnit": "Years",
+      "SampleSize": "106",
+      "FemalePercent": "47.17"
+    },
+    {
+      "Identifier": "C3",
+      "Description": "Young adulthood",
+      "MeanAge": "21.3",
+      "AgeMin": "19",
+      "AgeMax": "25",
+      "AgeUnit": "Years",
+      "SampleSize": "181",
+      "FemalePercent": "40.89"
+    },
+    {
+      "Identifier": "C4",
+      "Description": "Adulthood",
+      "MeanAge": "31.1",
+      "AgeMin": "26",
+      "AgeMax": "40",
+      "AgeUnit": "Years",
+      "SampleSize": "89",
+      "FemalePercent": "42.7"
+    },
+    {
+      "Identifier": "C5",
+      "Description": "Late adulthood",
+      "MeanAge": "52.7",
+      "AgeMin": "41",
+      "AgeMax": "60",
+      "AgeUnit": "Years",
+      "SampleSize": "62",
+      "FemalePercent": "43.55"
+    }
+  ],
+  "res": {
+    "01": {
+      "origin": [
+        96,
+        132,
+        -78.0
+      ],
+      "shape": [
+        193,
+        229,
+        193
+      ],
+      "zooms": [
+        1.0,
+        1.0,
+        1.0
+      ]
+    }
+  }
+}
