@@ -6,7 +6,7 @@ index	name	color
 4	Left-Inf-Lat-Vent	#c43afa
 5	Left-Cerebellum-White-Matter	#dcf8a4
 6	Left-Cerebellum-Cortex	#e69422
-7	Left-Thalamus-Proper		#00760e
+7	Left-Thalamus-Proper	#00760e
 8	Left-Caudate	#7abadc
 9	Left-Putamen	#ec0db0
 10	Left-Pallidum	#0c30ff
@@ -26,7 +26,7 @@ index	name	color
 24	Right-Inf-Lat-Vent	#c43afa
 25	Right-Cerebellum-White-Matter	#dcf8a4
 26	Right-Cerebellum-Cortex	#e69422
-27	Right-Thalamus-Proper		#00760e
+27	Right-Thalamus-Proper	#00760e
 28	Right-Caudate	#7abadc
 29	Right-Putamen	#ec0db0
 30	Right-Pallidum	#0d30ff
